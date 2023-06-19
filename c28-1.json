@@ -4,13 +4,13 @@
     "admobBanner": "",
     "admobInterstitial": "",
     "AdmobNative": "",
-    "applovinBanner": "111111banner",
-    "applovinInterstitial": "222222Interstitual",
-    "ApplovinNative": "99999Native",
+    "applovinBanner": "7e97e1cdbfd33d90",
+    "applovinInterstitial": "411fd7deffb43125",
+    "ApplovinNative": "4db9b2284cca8952",
     "unityGameId": "",
     "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
-    "RatingActive": false
+    "RatingActive": true
   }
 }
