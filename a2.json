@@ -1,0 +1,20 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "applovinBanner": "8e63b442e8ffe954",
+    "applovinInterstitial": "267bd6dbd25278a4",
+    "ApplovinNative": "83398b7c222e9d73",
+    "unityGameId": "",
+    "testMode": false,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+    "ratingactive": true,
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=xxxxxxxx",
+    "modeads": true,
+    "IMG1_URL": "https://c29.netlify.app/c29-7.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.yokiwallpaper.whoisyourdaddy2"
+  }
+}
