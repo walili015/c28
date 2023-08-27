@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
+    "adNetwork": "facebook",
     "admobBanner": "",
     "admobInterstitial": "",
     "applovinBanner": "8e63b442e8ffe954",
@@ -15,6 +15,9 @@
     "appURL": "https://play.google.com/store/apps/details?id=xxxxxxxx",
     "modeads": true,
     "IMG1_URL": "https://c33.netlify.app/c33-11.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.ramadanstudio"
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.ramadanstudio",
+    "fb_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbInterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
   }
 }
