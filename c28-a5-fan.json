@@ -2,8 +2,8 @@
   "AdsController": {
     "adNetwork": "facebook",
     "fb_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "fbInterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbInterstitial": "1957423394590074_1957424171256663",
+    "fbNative": "1957423394590074_1957424221256658",
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
