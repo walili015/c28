@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
+    "adNetwork": "facebook",
     "fb_banner":"1014784009949345_1014784759949270",
     "fbInterstitial": "1014784009949345_1014784796615933",
     "fbNative": "1014784009949345_1014784829949263",
