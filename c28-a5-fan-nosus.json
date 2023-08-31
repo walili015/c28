@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "facebook",
     "fb_banner":"1014784009949345_1015983676496045",
     "fbInterstitial": "1014784009949345_1015983713162708",
     "fbNative": "1014784009949345_1015983749829371",
