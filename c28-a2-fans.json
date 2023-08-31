@@ -11,7 +11,7 @@
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
     "ratingactive": true,
-    "appsuspand": "false",
+    "appsuspand": "go",
     "appURL": "https://play.google.com/store/apps/details?id=xxxxxxxx",
     "modeads": true,
     "IMG1_URL": "https://c33.netlify.app/c33-11.png",
