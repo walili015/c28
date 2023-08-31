@@ -1,0 +1,18 @@
+{
+  "AdsController": {
+    "adNetwork": "facebook",
+    "fb_banner":"131343786694666_131346190027759",
+    "fbInterstitial": "131343786694666_131346303361081",
+    "fbNative": "131343786694666_131346230027755",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+    "applovinBanner": "1e13d4dd7bafc725",
+    "applovinInterstitial": "7ec9000920cc097b",
+    "ApplovinNative": "5ae1f7fed2c63832",
+    "ratingactive": true,
+    "modeads": true,
+    "IMG1_URL": "https://c33.netlify.app/c33-11.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.ramadanstudio"
+  }
+}
