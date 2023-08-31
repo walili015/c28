@@ -1,0 +1,22 @@
+{
+  "AdsController": {
+    "adNetwork": "facebook",
+    "fb_banner":"1014784009949345_1015983676496045",
+    "fbInterstitial": "1014784009949345_1015983713162708",
+    "fbNative": "1014784009949345_1015983749829371",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+    "applovinBanner": "",
+    "applovinInterstitial": "",
+    "ApplovinNative": "",
+    "unityGameId": "",
+    "testMode": false,
+    "unityBanner": "",
+    "unityInterstitial": "",
+    "ratingactive": true,
+    "modeads": true,
+    "IMG1_URL": "https://c33.netlify.app/c33-11.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.ramadanstudio"
+  }
+}
