@@ -3,13 +3,14 @@
     "adNetwork": "applovin",
     "admobBanner": "",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "applovinBanner": "d01290b56fca7d17",
-    "applovinInterstitial": "c531e9a2c049d34d",
+    "applovinBanner": "",
+    "applovinInterstitial": "e1787865c1e54041",
     "appsuspand": false,
+    "ratingactive": true,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
     "modeads": true,
-    "IMG1_URL": "https://c30.netlify.app/c30-4.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.wallerswalls_badbabby.whoisyourdaddy2wallpapers",
+    "IMG1_URL": "https://c33.netlify.app/c33-11.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.ramadanstudio",
     "IMG2_URL": "https://c30.netlify.app/c30-4.png",
     "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.wallerswalls_badbabby.whoisyourdaddy2wallpapers"
   }
