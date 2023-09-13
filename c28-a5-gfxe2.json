@@ -6,7 +6,7 @@
     "applovinBanner": "",
     "applovinInterstitial": "e1787865c1e54041",
     "ratingactive": true,
-    "appsuspand": true,
+    "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.yoki",
     "modeads": true,
     "IMG1_URL": "https://cross-pan.netlify.app/c30-4.jpg",
