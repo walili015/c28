@@ -6,8 +6,8 @@
     "applovinBanner": "",
     "applovinInterstitial": "267bd6dbd25278a4",
     "ratingactive": true,
-    "appsuspand": false,
-    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
+    "appsuspand": true,
+    "appURL": "https://play.google.com/store/apps/details?id=com.wallerswalls_badbabby.whoisyourdaddy2wallpapers",
     "modeads": true,
     "IMG1_URL": "https://cross-pan.netlify.app/c41-1.jpg",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.amandatheadventurer.survival.horror.wooly"
